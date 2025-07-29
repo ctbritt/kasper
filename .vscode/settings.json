@@ -21,5 +21,6 @@
 		  "comments": true,
 		  "strings": true,
 		}
-	  }
+	},
+	"dmbinder.chromeExecutablePath": "/Applications/Google Chrome.app"
 }

@@ -14,7 +14,6 @@
 			"url": "https://github.com/mouse0270/",
 			"email": "rmcintosh@websitesbyfatdudes.com",
 			"discord": "Mouse0270#0270",
-
 			"flags": {
 				"twitter": "Mouse0270",
 				"patreon": "Mouse0270",
@@ -22,15 +21,14 @@
 				"ko-fi": "Mouse0270",
 				"reddit": "u/Mouse0270"
 			}
-		}, {
+		},
+		{
 			"name": "winterwulf"
 		}
 	],
-
 	"persistentStorage": false,
 	"library": false,
 	"socket": false,
-
 	"relationships": {
 		"systems": [],
 		"requires": [],
@@ -42,11 +40,11 @@
 		}
 	},
 	"esmodules": [
-        "/scripts/init.mjs"
+		"/scripts/init.mjs"
 	],
 	"scripts": [],
 	"styles": [
-        "/styles/module.css"
+		"/styles/module.css"
 	],
 	"languages": [
 		{
@@ -57,9 +55,9 @@
 	],
 	"media": [
 		{
-		  "type": "setup",
-		  "url": "modules/kasper/assets/logo.gif",
-		  "thumbnail": "modules/kasper/assets/logo.gif"
+			"type": "setup",
+			"url": "modules/kasper/assets/logo.gif",
+			"thumbnail": "modules/kasper/assets/logo.gif"
 		}
 	],
 	"url": "This is auto replaced",
@@ -67,10 +65,10 @@
 	"download": "This is auto replaced",
 	"readme": "This is auto replaced",
 	"changelog": "This is auto replaced",
-	"license": "This is auto replacedE",
+	"license": "This is auto replaced",
 	"bugs": "This is auto replaced",
 	"flags": {
-		"allowBugReporter": true, 
+		"allowBugReporter": true,
 		"attributions": "This is auto replaced"
 	}
 }
