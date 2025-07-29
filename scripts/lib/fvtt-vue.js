@@ -14,6 +14,7 @@ function cleanVueTemplate(template) {
 // Get Vue Template from Path
 async function getVueTemplate(path, id = null) {
 	// If Template is Cached, Return It
+	globalThis._templateCache = {};
 	if (_templateCache.hasOwnProperty(path)) return _templateCache[path];
 	if (_templateCache.hasOwnProperty(id)) return _templateCache[id];
 
