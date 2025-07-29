@@ -5,7 +5,7 @@
 	"version": "13.0.0",
 	"compatibility": {
 		"minimum": "12",
-		"verified": "13.346",
+		"verified": "13",
 		"maximum": "13.999"
 	},
 	"authors": [
@@ -26,9 +26,25 @@
 			"name": "winterwulf"
 		}
 	],
+
+	"persistentStorage": false,
+	"library": false,
+	"socket": false,
+
+	"relationships": {
+		"systems": [],
+		"requires": [],
+		"recommneds": [],
+		"optional": [],
+		"conflicts": [],
+		"flags": {
+			"optional": []
+		}
+	},
 	"esmodules": [
         "/scripts/init.mjs"
 	],
+	"scripts": [],
 	"styles": [
         "/styles/module.css"
 	],
@@ -45,5 +61,16 @@
 		  "url": "modules/kasper/assets/logo.gif",
 		  "thumbnail": "modules/kasper/assets/logo.gif"
 		}
-	]
+	],
+	"url": "This is auto replaced",
+	"manifest": "This is auto replaced",
+	"download": "This is auto replaced",
+	"readme": "This is auto replaced",
+	"changelog": "This is auto replaced",
+	"license": "This is auto replacedE",
+	"bugs": "This is auto replaced",
+	"flags": {
+		"allowBugReporter": true, 
+		"attributions": "This is auto replaced"
+	}
 }
